@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (2.0.2)
+  - APAvatarImageView (1.1.0)
+  - MapleBacon (2.0.7)
+  - XLPagerTabStrip (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 2.0)
+  - APAvatarImageView
+  - MapleBacon
+  - XLPagerTabStrip (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  APAvatarImageView: 428dbd0631a150fe876f90bfd7eaa275a19b9209
+  MapleBacon: be3192c52f95f4e1b6e6e8aa8d666cedeb207430
+  XLPagerTabStrip: a39467a6e71017d2be92807ed9308b4d06557c80
+
+COCOAPODS: 0.39.0
